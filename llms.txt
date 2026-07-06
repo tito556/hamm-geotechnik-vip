@@ -1,0 +1,50 @@
+# Geotechnik — Hamm
+
+> Geotechnical engineering services in Hamm, Deutschland.
+
+## Services
+- [Anker](https://hamm.geotechnik.vip/anker/)
+- [Atterberg Grenzen](https://hamm.geotechnik.vip/atterberg-grenzen/)
+- [Aushub](https://hamm.geotechnik.vip/aushub/)
+- [Aushub Monitoring](https://hamm.geotechnik.vip/aushub-monitoring/)
+- [Bodenplatten](https://hamm.geotechnik.vip/bodenplatten/)
+- [Bodenverbesserung](https://hamm.geotechnik.vip/bodenverbesserung/)
+- [Boschungsstabilitat](https://hamm.geotechnik.vip/boschungsstabilitat/)
+- [Cpt Versuch](https://hamm.geotechnik.vip/cpt-versuch/)
+- [Erdbebenisolierung](https://hamm.geotechnik.vip/erdbebenisolierung/)
+- [Flexibler Belag](https://hamm.geotechnik.vip/flexibler-belag/)
+- [Fundamente](https://hamm.geotechnik.vip/fundamente/)
+- [Geophysik](https://hamm.geotechnik.vip/geophysik/)
+- [Grundungen](https://hamm.geotechnik.vip/grundungen/)
+- [Hange](https://hamm.geotechnik.vip/hange/)
+- [In Situ Durchlassigkeit](https://hamm.geotechnik.vip/in-situ-durchlassigkeit/)
+- [Injektionen](https://hamm.geotechnik.vip/injektionen/)
+- [Korngrossenanalyse](https://hamm.geotechnik.vip/korngrossenanalyse/)
+- [Labor](https://hamm.geotechnik.vip/labor/)
+- [Labor In Situ](https://hamm.geotechnik.vip/labor-in-situ/)
+- [Masw](https://hamm.geotechnik.vip/masw/)
+- [Pfahle](https://hamm.geotechnik.vip/pfahle/)
+- [Plattendruckversuch](https://hamm.geotechnik.vip/plattendruckversuch/)
+- [Ruttelverdichtung](https://hamm.geotechnik.vip/ruttelverdichtung/)
+- [Sandkegel Dichte](https://hamm.geotechnik.vip/sandkegel-dichte/)
+- [Schottersaulen](https://hamm.geotechnik.vip/schottersaulen/)
+- [Seismik](https://hamm.geotechnik.vip/seismik/)
+- [Seismische Mikrozonierung](https://hamm.geotechnik.vip/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://hamm.geotechnik.vip/seismische-refraktion/)
+- [Spt Bohrung](https://hamm.geotechnik.vip/spt-bohrung/)
+- [Starrer Belag](https://hamm.geotechnik.vip/starrer-belag/)
+- [Strassenbau](https://hamm.geotechnik.vip/strassenbau/)
+- [Stutzmauern](https://hamm.geotechnik.vip/stutzmauern/)
+- [Tiefe Aushube](https://hamm.geotechnik.vip/tiefe-aushube/)
+- [Triaxialversuch](https://hamm.geotechnik.vip/triaxialversuch/)
+- [Untersuchung](https://hamm.geotechnik.vip/untersuchung/)
+- [Verflussigung](https://hamm.geotechnik.vip/verflussigung/)
+- [Weichbodentunnel](https://hamm.geotechnik.vip/weichbodentunnel/)
+- [Widerstand](https://hamm.geotechnik.vip/widerstand/)
+
+## Contact
+- Website: https://hamm.geotechnik.vip/
+
+## About
+This site provides geotechnical engineering services in Hamm, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
